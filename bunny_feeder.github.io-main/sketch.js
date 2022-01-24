@@ -109,7 +109,7 @@ function setup()
   rope = new Rope(8,{x:40,y:30});
   rope2 = new Rope(7,{x:370,y:40});
   rope3 = new Rope(4,{x:400,y:225});
-  rope4 = new Rope()
+  
 
   ground = new Ground(200,canH,600,20);
   blink.frameDelay = 20;
